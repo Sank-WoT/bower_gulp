@@ -1,0 +1,21 @@
+{
+  "name": "Compass",
+  "authors": [
+    "Sank <aserobabow95@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-strings": "normalize#^1.1.0",
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
