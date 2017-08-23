@@ -6,7 +6,6 @@ gulp.task('mainJS', function() {
         .pipe(gulp.dest('dist/js'))
 });
 
-
 gulp.task('mainCSS', function() {
     return gulp.src(mainBowerFiles('**/*.css', {
       "overrides": {
